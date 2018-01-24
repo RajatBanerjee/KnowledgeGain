@@ -1,5 +1,4 @@
-# KnowledgeGain
-Repo's on things to do\ learn
+# Minerva
 * [ ] Javascritp Interview Questions
     * [x] Closure
 		* [ ] Async Await
