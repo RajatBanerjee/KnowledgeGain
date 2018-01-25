@@ -25,5 +25,8 @@
 * [ ]  AWS deployment
 * [ ]  Nexus
 * [ ]  Docker Containers
-* [ ] Flex Box
+* [ ]  Flex Box
+* [ ]  Servcie workers
+* [ ]  GraphQL
+
 
