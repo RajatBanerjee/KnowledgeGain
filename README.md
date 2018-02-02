@@ -20,6 +20,12 @@
 		* [ ] Closure
 		* [ ] Closure
 		* [ ] JS Spread opeartor
+* [ ]  [React 16](https://github.com/RajatBanerjee/react-learnings)
+	* [ ]  React Class Component \ smart component
+	* [ ]  Dumb Component\ functional component
+	* [ ]  Pure Component
+	* [ ]  Map\Filter
+	* [ ]  props.children
 * [ ]  No SQl data model
 * [ ]  Firebase
 * [ ]  AWS deployment
