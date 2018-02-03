@@ -1,7 +1,9 @@
 # Minerva
 * [ ] [Javascritp Interview Questions](https://github.com/RajatBanerjee/JSInterviewQuestions) 
     * [x] Closure
-		* [ ] [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+		* [ ] ES6 FEatures
+			* [ ] [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+			* [ ] Template literals
 		* [ ] Async Await
 		* [ ] Closure
 		* [ ] Higher Order Functions
