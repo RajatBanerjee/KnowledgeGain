@@ -29,6 +29,10 @@
 	* [ ]  Map\Filter
 	* [ ]  props.children
 * [ ] [React-learning-githubpopular](https://github.com/RajatBanerjee/react-learnings-githubPopular)
+	* vanilla create react app
+	* single route
+	* Api calling\ Axios basic
+	* Statefull and stateless components
 * [ ]  No SQl data model
 * [ ]  Firebase
 * [ ]  AWS deployment
