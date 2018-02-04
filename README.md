@@ -29,14 +29,14 @@
 	* [ ]  Map\Filter
 	* [ ]  props.children
 * [ ] [React-learning](https://github.com/RajatBanerjee/react-learnings)
-	[ ]# React-16-router4-client
+	* [ ] # React-16-router4-client
 		* vanilla create react app
 		* single route
 		* Api calling\ Axios basic
 		* Statefull and stateless components
-	[ ]# React-16-router4-CustomWebpack
+	* [ ] React-16-router4-CustomWebpack
 		* move away from create react app webpac
-	[ ] # React-16-router4-CustomWebpack-ServerRender
+	* [ ] # React-16-router4-CustomWebpack-ServerRender
 		* Render on server
 		
 * [ ]  No SQl data model
