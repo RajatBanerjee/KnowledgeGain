@@ -22,17 +22,23 @@
 	* [x] Protopype Inheritence
 	* [ ] Closure
 	* [ ] JS Spread opeartor
-* [ ]  [React 16](https://github.com/RajatBanerjee/react-learnings)
+* [ ]  [React-fundamentals](https://github.com/RajatBanerjee/react-fundamentals)
 	* [ ]  React Class Component \ smart component
 	* [ ]  Dumb Component\ functional component
 	* [ ]  Pure Component
 	* [ ]  Map\Filter
 	* [ ]  props.children
-* [ ] [React-learning-githubpopular](https://github.com/RajatBanerjee/react-learnings-githubPopular)
-	* vanilla create react app
-	* single route
-	* Api calling\ Axios basic
-	* Statefull and stateless components
+* [ ] [React-learning](https://github.com/RajatBanerjee/react-learnings)
+	[ ]# React-16-router4-client
+		* vanilla create react app
+		* single route
+		* Api calling\ Axios basic
+		* Statefull and stateless components
+	[ ]# React-16-router4-CustomWebpack
+		* move away from create react app webpac
+	[ ] # React-16-router4-CustomWebpack-ServerRender
+		* Render on server
+		
 * [ ]  No SQl data model
 * [ ]  Firebase
 * [ ]  AWS deployment
