@@ -35,12 +35,16 @@
 * [ ] [React-learning](https://github.com/RajatBanerjee/react-learnings)
 	* [ ] **React-16-router4-client**
 		* vanilla create react app
-		* single route
+		* ES6 Class , contructor, class properties
+		* react router 4 - react-router-dom
 		* Api calling\ Axios basic
 		* Statefull and stateless components
-
+		* Array Map\ Reduce
+		* Ternary operators
+		* Event handlers
+		* Props.Children 
 	* [ ] **Enable Linting**
-		* [ ] **Express and CustomWebpack**
+	* [ ] **Express and CustomWebpack**
 		* move away from create react app webpack
 		* create custonm dev server
 		* vanilla Express server
