@@ -3,9 +3,10 @@
     * [x] Closure
 	* [ ] ES6 FEatures
 		* [ ] [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
-		* [ ] Template literals
+		* [ ] 'this' in arrow functions
+		* [x] Template literals
 	* [ ] Async Await
-	* [ ] Closure
+	* [x] Closure
 	* [ ] Higher Order Functions
 		* [x] ArrayFilter
 		* [x] ArrayMap
@@ -19,8 +20,11 @@
 		* [x] Palindrome
 		* [x] HashTable
 	* [ ] Promise
+		* [x] series promise
+		* [x] parallel promise
+		* [x] dynamic series promise
 	* [x] Protopype Inheritence
-	* [ ] Closure
+	* [x] Closure
 	* [ ] JS Spread opeartor
 * [ ]  [React-fundamentals](https://github.com/RajatBanerjee/react-fundamentals)
 	* [ ]  React Class Component \ smart component
@@ -34,8 +38,9 @@
 		* single route
 		* Api calling\ Axios basic
 		* Statefull and stateless components
-	* [ ] **Enable Linting
-	* [ ] **Express and CustomWebpack**
+
+	* [ ] **Enable Linting**
+		* [ ] **Express and CustomWebpack**
 		* move away from create react app webpack
 		* create custonm dev server
 		* vanilla Express server
